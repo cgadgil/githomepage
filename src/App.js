@@ -12,7 +12,7 @@ class App extends Component {
             Chetan Gadgil's Project Site
           </p>
           <ul>
-            <li><a>Stock Market</a></li>
+            <li><a href='http://finance.google.com'>Stock Market</a></li>
           </ul>
         </header>
       </div>
